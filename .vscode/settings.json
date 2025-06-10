@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "group": "ATIVIDADES",
+            "name": "Atividade_Ebac",
+            "connectString": "postgresql://postgres:4ever@localhost:5432/ebac"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgresql://postgres:4ever@localhost:5432/db",
+            "group": "ATIVIDADES",
+            "name": "Atividade_Ebac"
+        }
+    ]
+}
