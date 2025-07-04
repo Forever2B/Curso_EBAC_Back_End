@@ -1,1 +1,5 @@
 Django
+pytest
+pytest-django
+Faker
+factory_boy
